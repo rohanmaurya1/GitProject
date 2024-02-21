@@ -54,4 +54,9 @@ public class Contributor {
     public Contributor() {
     }
 
+    public void display()
+    {
+        System.out.println("demo");
+    }
+
 }
